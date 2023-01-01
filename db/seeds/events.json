@@ -1,0 +1,17 @@
+[
+  {
+    "name": "rails pdf 1",
+    "price": "2022-07-14",
+    "description": "Ada Lovelace — The Making of a Computer Scientist"
+  },
+  {
+    "name": "rails pdf 2",
+    "price": "24.42",
+    "description": "Ada Lovelace — The Making of a Computer Scientist"
+  },
+  {
+    "name": "rails pdf 3",
+    "price": "21.43",
+    "description": "Ada Lovelace — The Making of a Computer Scientist"
+  }
+]
